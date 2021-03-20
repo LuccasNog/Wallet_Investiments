@@ -1,6 +1,6 @@
 # raplly
 
-A new Flutter project.
+Carteira de Investimentos.
 
 ## Getting Started
 
